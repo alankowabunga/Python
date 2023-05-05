@@ -1,0 +1,94 @@
+簡明 Python Pandas 入門教學:
+ https://blog.techbridge.cc/2020/09/21/python-pandas-zen-tutorial/
+
+
+================================================================================
+
+
+Numpy introduction:
+https://blog.techbridge.cc/2020/08/24/numpy-zen-intro-tutorial/
+
+Learning Numpy - 建立、合併、分割:
+https://ithelp.ithome.com.tw/articles/10203624
+
+Numpy的數學&統計方法！:
+https://ithelp.ithome.com.tw/articles/10195984
+
+Hello NumPy!:
+https://ithelp.ithome.com.tw/articles/10222455
+
+
+
+================================================================================
+
+
+折線圖、座標、直方圖、圓餅圖:
+https://ithelp.ithome.com.tw/articles/10201004
+
+視覺化資料 - Matplotlib - legend、subplot、GridSpec、annotate:
+https://ithelp.ithome.com.tw/articles/10201670
+
+
+
+ seaborn函式庫教學(一)-表現資料間的關係:
+ https://pyecontech.com/2018/08/28/python_seaborn_installation_replot/
+
+
+ seaborn函式庫教學(二) – 類別資料的視覺化:
+ https://pyecontech.com/2018/09/02/python_seaborn_catplot/
+
+
+ seaborn函式庫教學(三) – 繪製資料分佈情形:
+ https://pyecontech.com/2018/09/30/python_seaborn_visualization/
+
+
+
+================================================================================
+
+
+
+初學者必看！一個觀念，開啟Python 網路爬蟲成長之路！(含解說影片與程式碼)
+https://medium.com/%E8%AA%A4%E9%97%96%E6%95%B8%E6%93%9A%E5%8F%A2%E6%9E%97%E7%9A%84%E5%95%86%E7%AE%A1%E4%BA%BAzino/%E5%88%9D%E5%AD%B8%E8%80%85%E5%BF%85%E7%9C%8B-%E4%B8%80%E5%80%8B%E8%A7%80%E5%BF%B5-%E9%96%8B%E5%95%9Fpython-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E6%88%90%E9%95%B7%E4%B9%8B%E8%B7%AF-%E5%90%AB%E8%A7%A3%E8%AA%AA%E5%BD%B1%E7%89%87-fac0a17cd261
+
+
+[Python爬蟲教學]7個Python使用BeautifulSoup開發網頁爬蟲的實用技巧:
+https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html
+
+
+
+================================================================================
+
+
+如何處理缺失值(觀念):
+https://medium.com/jackys-blog/%E5%A6%82%E4%BD%95%E8%99%95%E7%90%86%E7%BC%BA%E5%A4%B1%E5%80%BC-%E4%BD%BF%E7%94%A8python-479e030a43c7
+
+
+[Pandas教學]4個必學的Pandas套件處理遺漏值(Missing Value)資料方法:
+https://www.learncodewithmike.com/2021/07/pandas-handle-missing-value.html
+
+
+================================================================================
+Python 爬蟲實戰範例
+學會抓取 Yahoo奇摩最新電影
+https://www.webscrapingpro.tw/yahoo-movie-web-scraping-using-python/
+
+
+使用Python處理CSV文件:
+https://ithelp.ithome.com.tw/articles/10292897
+
+Python 如何處理 CSV 格式檔案:
+https://training.pada-x.com/wehelp/topic/5143832584781824
+
+================================================================================
+
+
+用 HTML 與 CSS 製作簡單的導覽列（上）:
+https://medium.com/@mingjunlu/building-a-simple-navbar-with-html-and-css-setting-up-the-skeleton-212fb8767cb5
+
+
+抖動畫面流出!你真的會:hover嗎?
+https://ithelp.ithome.com.tw/m/articles/10270635
+
+
+Python Comprehension語法應用教學:
+https://www.learncodewithmike.com/2020/01/python-comprehension.html
