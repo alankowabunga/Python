@@ -23,7 +23,7 @@ def getData(url):
     nextLink=html.unescape(nextLink)
     return nextLink["href"] #2.程式碼跑完抓到上一頁的連結，並返回return後寫入pageURL
 
-#要抓取多個頁面的標題，利用def函式作包裝
+#要抓取多個頁面的標題，利用函式作包裝
 pageURL="https://www.ptt.cc/bbs/Gossiping/index39213.html"
 
 #主程序:利用迴圈抓取多個頁面的標題
